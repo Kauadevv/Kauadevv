@@ -4,10 +4,6 @@
 - 🌱 Fora a faculdade ADS (Análise e Desenvolvimento de Sistemas), estou estudando orquestração de pipelines e desenvolvimento em conjunto.
 - 🧐 Sabia que 90% dos dados no mundo foram gerados nos últimos dois anos? O crescimento da informação digital está em um ritmo impressionante!
   
-<img heigth="180" src="https://github-readme-stats.vercel.app/api?username=Kauadevv&show_icons=true&theme=radical"> </img>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-
 ## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
