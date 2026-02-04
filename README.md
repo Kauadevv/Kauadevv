@@ -1,7 +1,7 @@
 ## Olá👋
 
 - 🔭 Atualmente trabalho como Assistente de operações no Mercado Livre com viés em dados.
-- 🌱 Fora a faculdade ADS (Análise e Desenvolvimento de Sistemas), estou estudando orquestração de pipelines e processameto de grandes volumes de dados.
+- 🌱 Fora a faculdade ADS (Análise e Desenvolvimento de Sistemas), estou estudando orquestração de pipelines e desenvolvimento em conjunto.
 - 🧐 Sabia que 90% dos dados no mundo foram gerados nos últimos dois anos? O crescimento da informação digital está em um ritmo impressionante!
   
 <img heigth="180" src="https://github-readme-stats.vercel.app/api?username=Kauadevv&show_icons=true&theme=radical"> </img>
