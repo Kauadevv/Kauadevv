@@ -20,12 +20,13 @@ Transformando dados brutos em decisões estratégicas 🚀
 <div style="display: inline_block">
   <img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 ### 🗄️ Banco de Dados
 <div style="display: inline_block">
-  <img align="center" alt="PostgreSQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Google BigQuery" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="PostgreSQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
 
 ### ☁️ Data & Cloud
@@ -40,12 +41,6 @@ Transformando dados brutos em decisões estratégicas 🚀
 
 - 🔹 **Simulador de E-commerce**  
   Geração de eventos em JSONL simulando pedidos, clientes e transações.
-
-- 🔹 **Pipeline local com PostgreSQL**  
-  Ingestão, transformação e carga de dados estruturados.
-
-- 🔹 **Dashboards Operacionais**  
-  Construção de métricas e visualizações estratégicas no Looker Studio.
 
 ---
 
