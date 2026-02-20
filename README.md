@@ -27,8 +27,8 @@ Transformando dados brutos em decisões estratégicas 🚀
 
 ## 🚀 Projetos em Destaque
 
-- 🔹 **Simulador de E-commerce**  
-  Geração de eventos em JSONL simulando pedidos, clientes e transações.
+- 🔹 **[Simulador de E-commerce](https://github.com/Kauadevv/squad-ecommerce)**  
+  Geração de eventos em JSONL simulando ordens de pedidos.
 
 ---
 
