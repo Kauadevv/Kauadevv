@@ -1,5 +1,4 @@
-# Kauã Henrique  
-### Data Engineer & Backend Developer in Progress
+### Aspirant Data Engineer & Backend Developer in Progress
 
 ---
 
