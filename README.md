@@ -1,5 +1,5 @@
 # Kauã Henrique  
-### Data Engineer in Progress - Software Developer | Python • Spark • Airflow • GCP • Java 
+### Data Engineer & Software Developer in Progress | Python • Spark • Airflow • GCP • Java 
 
 ---
 
