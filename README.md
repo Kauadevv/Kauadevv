@@ -1,4 +1,3 @@
-```md
 # Kauã Henrique  
 ### Data Engineer & Backend Developer in Progress
 
@@ -6,19 +5,20 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-- 💼 Atuo no Mercado Livre com foco em análise de dados e melhoria operacional.
-- 📊 Desenvolvo soluções para automatização de processos, padronização de operações e construção de métricas.
+- 💼 Hoje Atuo como Data & Analytics - Assistant no Mercado Livre.
+- 📊 Desenvolvo pequenos sistemas para automatização de processos, padronização de indicadores e construção de métricas operacionais.
 - ⚙️ Interessado por Arquitetura de Dados, pipelines, integração OLTP x OLAP, processamento distribuído e desenvolvimento backend com Java.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
 ---
 
-```md
 ## 🧠 Tecnologias
 
-| 💻 Linguagens | 🗄️ Banco de Dados | ☁️ Data & Cloud | 🛠️ Ferramentas |
-|:------------:|:-----------------:|:--------------:|:-------------:|
-| <img height="40" src="https://://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/> |
+| 💻 Linguagens | 🗄️ Banco de Dados | ☁️ Data & Cloud |
+|:------------:|:-----------------:|:--------------:|
+| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg"/> <br> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/> |
+```
+
 ```
 
 
@@ -53,4 +53,3 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>  
 </div>
-```
