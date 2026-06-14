@@ -5,8 +5,8 @@
 ## 👨🏻‍💻 Sobre mim
 
 - 💼 Hoje Atuo como Data & Analytics - Assistant no Mercado Livre.
-- 📊 Desenvolvo pequenos sistemas para automatização de processos, padronização de indicadores e construção de métricas operacionais.
-- ⚙️ Interessado por Arquitetura de Dados, pipelines, integração OLTP x OLAP, processamento distribuído e desenvolvimento backend com Java.
+- 📊 Desenvolvo pequenos sistemas para automatização de processos, padronização de indicadores e construção de métricas operacionais volatadas pra logística.
+- ⚙️ Interessado por Arquitetura de Dados, pipelines, integração de sistemas, processamento distribuído e desenvolvimento backend com Java.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
 ---
